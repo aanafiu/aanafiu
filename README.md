@@ -1,8 +1,3 @@
-
-![N-Loading]([https://raw.githubusercontent.com/aanafiu/N-loading/main/assets/n-loading.gif](https://raw.githubusercontent.com/aanafiu/N-loading/15e5d8d486a1fc71f14985e72be5661f0f48c49e/assets/n-loading.gif))
-
-
-
 <!-- GitHub Profile README Content -->
 <h1 align="center">Hi 👋, I'm Nafiu</h1>
 <h3 align="center">A Self Learner</h3>
@@ -18,6 +13,11 @@
 - 📝 I regularly write articles on [https://www.linkedin.com/in/aanafiu/](https://www.linkedin.com/in/aanafiu/)
 
 - 👨‍💻 How to reach me **abdullahall.nafiu@gmail.com**
+
+## 🚀 N-Loading Animation Preview
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aanafiu/N-loading/15e5d8d486a1fc71f14985e72be5661f0f48c49e/assets/n-loading.gif" alt="N-Loading Animation" width="500"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
