@@ -1,6 +1,6 @@
 <!-- GitHub Profile README Content -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aanafiu/N-loading/refs/heads/main/assets/n-loading.gif" alt="N-Loading Animation" width="200" height="200"/>
+  <img src="https://raw.githubusercontent.com/aanafiu/N-loading/refs/heads/main/assets/n-loading.gif" alt="N-Loading Animation" width="120" height="120"/>
 </p>
 <h1 align="center">Hi 👋, I'm Nafiu</h1>
 <h3 align="center">A Self Learner</h3>
