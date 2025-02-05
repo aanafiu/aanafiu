@@ -24,7 +24,7 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aanafiu&" alt="aanafiu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aanafiu" alt="aanafiu" /></p>
 
 <hr>
 <p>
