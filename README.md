@@ -23,9 +23,9 @@
 <a href="https://linkedin.com/in/aanafiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aanafiu" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanafiu&show_icons=true&locale=en&layout=compact" alt="aanafiu" />&nbsp;</p>
-
+<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanafiu&show_icons=true&locale=en&layout=compact" alt="aanafiu" /></p>
+<hr>
 <hr>
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=aanafiu&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
