@@ -1,13 +1,16 @@
 <!-- GitHub Profile README Content -->
+<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/aanafiu/N-loading/refs/heads/main/assets/Frame%201.png" alt="N-Loading Animation"/>
 </p>
+
+<!-- Details -->
 <p align="center">
   <img  src="https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Hello%20👋,%20I'm%20Abdullah%20Al%20Nafiu&animation=fadeIn&section=header&fontSize=35&fontColor=FFFFFF&fontAlign=50&textBg=false&desc=Competitive%20Programmer%20|%20Web%20Developer%20|%20Jack%20Of%20All%20Trades&descSize=21&descAlignY=60&fontAlignY=42&reversal=false" />
 </p>
-
- <p align="right"> <img src="https://komarev.com/ghpvc/?username=aanafiu&label=Profile%20views&color=0e75b6&style=flat" alt="aanafiu" /> </p>
-
+<!-- Views -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=aanafiu&label=Profile%20views&color=0e75b6&style=flat" alt="aanafiu" /> </p>
+<!-- Social Connect -->
 <h1 align="center">
   <a href="https://www.facebook.com/abdullaal.nafiu">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white">
@@ -22,8 +25,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aanafiu" alt="aanafiu" /></a> </p>
-
 - 🔭 I’m currently working on [MERN Project](https://mongo-medicamp.web.app/)
 
 - 🌱 I’m currently learning **Next.js**
@@ -33,16 +34,15 @@
 - 👨‍💻 How to reach me **abdullahall.nafiu@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aanafiu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aanafiu" height="30" width="40" /></a>
-</p>
+<h2 align="center">
+<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only"/>
+</h2>
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanafiu&show_icons=true&locale=en&layout=compact" alt="aanafiu" /></p>
 
 <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=aanafiu&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -74,4 +74,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Buy Me A Coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>&nbsp;</p><br><br>
 
-
+<!-- Git Hub Achivements -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aanafiu" alt="aanafiu" /></a> </p>
