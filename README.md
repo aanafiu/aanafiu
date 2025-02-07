@@ -4,6 +4,17 @@
 </p>
 <p align="center">
   <img  src="https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Hello%20👋,%20I'm%20Abdullah%20Al%20Nafiu&animation=fadeIn&section=header&fontSize=35&fontColor=FFFFFF&fontAlign=50&textBg=false&desc=Competitive%20Programmer%20|%20Web%20Developer%20|%20Jack%20Of%20All%20Trades&descSize=21&descAlignY=60&fontAlignY=42&reversal=false" />
+</p>
+<p align="center>
+  <a href="https://www.facebook.com/abdullaal.nafiu">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/aanafiu">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:abdullahall.nafiu@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </p>
 
