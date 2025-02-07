@@ -2,8 +2,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/aanafiu/N-loading/refs/heads/main/assets/Frame%201.png" alt="N-Loading Animation"/>
 </p>
-<h1 align="center">Hi 👋, I'm Nafiu</h1>
-<h3 align="center">A Self Learner || Jack Of All Trades</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Hello%20👋,%20I'm%20Abdullah%20Al%20Nafiu&animation=fadeIn&section=header&fontSize=35&fontColor=000000&fontAlign=50&textBg=false&desc=Competitive%20Programmer%20|%20Web%20Developer%20|%20Jack%20Of%20All%20Trades&descSize=21&descAlignY=60&fontAlignY=42" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanafiu&label=Profile%20views&color=0e75b6&style=flat" alt="aanafiu" /> </p>
 
