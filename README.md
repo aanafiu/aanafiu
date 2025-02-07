@@ -34,9 +34,9 @@
 - 👨‍💻 How to reach me **abdullahall.nafiu@gmail.com**
 
 
-<h2 align="center">
-<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only"/>
-</h2>
+<h1 align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=aanafiu&show_icons=true&theme=dark#gh-dark-mode-only"/>
+</h1>
 
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanafiu&show_icons=true&locale=en&layout=compact" alt="aanafiu" /></p>
