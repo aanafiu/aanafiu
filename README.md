@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/aanafiu/N-loading/refs/heads/main/assets/Frame%201.png" alt="N-Loading Animation"/>
 </p>
 <h1 align="center">Hi 👋, I'm Nafiu</h1>
-<h3 align="center">A Self Learner</h3>
+<h3 align="center">A Self Learner || Jack Of All Trades</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanafiu&label=Profile%20views&color=0e75b6&style=flat" alt="aanafiu" /> </p>
 
