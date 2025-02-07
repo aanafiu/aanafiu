@@ -80,4 +80,4 @@
 <p><a href="https://www.buymeacoffee.com/Buy Me A Coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>&nbsp;</p><br><br>
 
 <!-- Git Hub Achivements -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aanafiu" alt="aanafiu" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aanafiu&theme=kimbie_dark" alt="aanafiu" /></a> </p>
