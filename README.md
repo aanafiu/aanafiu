@@ -25,9 +25,6 @@
 
 <h1 align = "center>
  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aanafiu&theme=nightowl&border=true&border_radius=7&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" /></a>
-  <a>
-<img width="500px" height="200px"  src="https://github-readme-stats.vercel.app/api?username=aanafiu&show_icons=true&theme=gotham"/>
-</a>
 </h1>
 
 
@@ -41,10 +38,9 @@
 - 👨‍💻 How to reach me **abdullahall.nafiu@gmail.com**
 
 
-
-
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanafiu&show_icons=true&locale=en&layout=compact" alt="aanafiu" /></p>
+<h1><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanafiu&show_icons=true&locale=en&layout=compact" alt="aanafiu" />   <a>
+<img width="500px" height="200px"  src="https://github-readme-stats.vercel.app/api?username=aanafiu&show_icons=true&theme=gotham"/>
+</a></h1>
 
 <p>
 
