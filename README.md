@@ -40,7 +40,7 @@
 - 👨‍💻 How to reach me **abdullahall.nafiu@gmail.com**
 
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aanafiu&show_icons=true&locale=en&layout=compact" alt="aanafiu" />   <a>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanafiu&layout=pie&theme=dark" alt="aanafiu" />   <a>
 <img width="500px" height="200px"  src="https://github-readme-stats.vercel.app/api?username=aanafiu&show_icons=true&theme=gotham"/>
 </a></p>
 
