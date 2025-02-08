@@ -75,13 +75,15 @@
 <hr>
 
 <h3 align="left">Contact On WhatsApp:</h3>
-<p>
+<h1>
   <a href="https://api.whatsapp.com/send/?phone=8801636748351">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="50" width="50" alt="WhatsApp" />
     <strong>Chat on WhatsApp</strong>
   </a>
-</p>
+</h1>
 
 
 <!-- Git Hub Achivements -->
+<h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aanafiu&theme=kimbie_dark" alt="aanafiu" /></a> </p>
+</h1>
