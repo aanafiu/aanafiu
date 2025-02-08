@@ -24,9 +24,9 @@
 </h1>
 
 <h1 align = "center>
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aanafiu&theme=nightowl&border=true&border_radius=7&date_format=M%20j%5B%2C%20Y%5D&card_width=450&card_height=200" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=aanafiu&theme=nightowl&border=true&border_radius=7&date_format=M%20j%5B%2C%20Y%5D&card_width=400&card_height=200" alt="GitHub Streak" /></a>
   <a>
-<img width="400px"  src="https://github-readme-stats.vercel.app/api?username=aanafiu&show_icons=true&theme=gotham"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=aanafiu&show_icons=true&theme=gotham"/>
 </a>
 </h1>
 
