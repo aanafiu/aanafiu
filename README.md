@@ -23,15 +23,6 @@
 </a>
 </h1>
 
-<h1>
-</h1>
-<p align = "center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanafiu&theme=nightowl&border=true&border_radius=7&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" />
-</p>
-<h1>
-</h1>
-
-
 
 - 🔭 I’m currently working on [Final Year Projecct]
 
@@ -41,17 +32,29 @@
 
 - 👨‍💻 How to reach me **abdullahall.nafiu@gmail.com**
 
-
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanafiu&layout=pie&theme=dark" alt="aanafiu" />   <a>
-<img width="500px" height="200px"  src="https://github-readme-stats.vercel.app/api?username=aanafiu&show_icons=true&theme=gotham"/>
-</a></p>
-
-<p>
+<p align="center">
+  <table>
+    <tr>
+      <!-- Left Column: Pie Chart -->
+      <td rowspan="2" align="center" valign="middle" width="45%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanafiu&layout=pie&theme=dark" alt="Most Used Languages" width="100%" />
+      </td>
+      <!-- Right Column, Top: Streak Stats -->
+      <td align="center" valign="middle" width="55%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanafiu&theme=nightowl&border=true&border_radius=7&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <!-- Right Column, Bottom: General Stats -->
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api?username=aanafiu&show_icons=true&theme=gotham" alt="GitHub Stats" width="100%" />
+      </td>
+    </tr>
+  </table>
+</p>
 
 <div>
-<h1>
-🛠️ Skills & Technologies
-</h1>
+  <h1>🛠️ Skills & Technologies</h1>
 
 ### 🎨 Frontend
 <p align="left">
