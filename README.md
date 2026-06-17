@@ -6,7 +6,7 @@
 
 <!-- Details -->
 <p align="center">
-  <img  src="https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Hello%20👋,%20I'm%20Abdullah%20Al%20Nafiu&animation=fadeIn&section=header&fontSize=35&fontColor=FFFFFF&fontAlign=50&textBg=false&desc=Competitive%20Programmer%20|%20Web%20Developer%20|%20Jack%20Of%20All%20Trades&descSize=21&descAlignY=60&fontAlignY=42&reversal=false" />
+  <img  src="https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Hello%20👋,%20I'm%20Abdullah%20Al%20Nafiu&animation=fadeIn&section=header&fontSize=35&fontColor=FFFBBB&fontAlign=50&textBg=false&desc=Problematic%20Programmer%20But%20Jack%20Of%20All%20Trades&descSize=21&descAlignY=60&fontAlignY=42&reversal=false" />
 </p>
 <!-- Views -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=aanafiu&label=Profile%20views&color=0e75b6&style=flat" alt="aanafiu" /> </p>
