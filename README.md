@@ -1,7 +1,7 @@
 <!-- GitHub Profile README Content -->
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aanafiu/N-loading/refs/heads/main/assets/Frame%201.png" alt="N-Loading Animation"/>
+  <img src="https://raw.githubusercontent.com/aanafiu/N-loading/refs/heads/main/assets/frame%202.png" alt="N-Loading Animation"/>
 </p>
 
 <!-- Details -->
@@ -48,7 +48,7 @@
 
 <p>
 
-
+<hr>
 ## 🛠️ Skills & Technologies
 
 ### 🎨 Frontend
