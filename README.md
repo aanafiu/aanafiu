@@ -48,6 +48,7 @@
 
 <p>
 
+<div>
 <h1>
 🛠️ Skills & Technologies
 </h1>
@@ -109,6 +110,7 @@
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" title="npm"/>
 </p>
+</div>
 <hr>
 
 <h3 align="left">Contact On WhatsApp:</h3>
