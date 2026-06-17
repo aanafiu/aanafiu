@@ -33,9 +33,9 @@
 
 
 
-- 🔭 I’m currently working on [MERN Project](https://mongo-medicamp.web.app/)
+- 🔭 I’m currently working on [Final Year Projecct]
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Web Scraping**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/aanafiu/](https://www.linkedin.com/in/aanafiu/)
 
@@ -48,8 +48,9 @@
 
 <p>
 
-<hr>
-## 🛠️ Skills & Technologies
+<h1>
+🛠️ Skills & Technologies
+</h1>
 
 ### 🎨 Frontend
 <p align="left">
