@@ -1,131 +1,433 @@
-<!-- GitHub Profile README Content -->
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aanafiu/N-loading/refs/heads/main/assets/frame%202.png" alt="N-Loading Animation"/>
-</p>
+<div align="center">
 
-<!-- Details -->
-<p align="center">
-  <img  src="https://capsule-render.vercel.app/api?type=soft&height=200&color=gradient&text=Hello%20👋,%20I'm%20Abdullah%20Al%20Nafiu&animation=fadeIn&section=header&fontSize=35&fontColor=FFFBBB&fontAlign=50&textBg=false&desc=Problematic%20Programmer%20But%20Jack%20Of%20All%20Trades&descSize=21&descAlignY=60&fontAlignY=42&reversal=false" />
-</p>
-<!-- Views -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=aanafiu&label=Profile%20views&color=0e75b6&style=flat" alt="aanafiu" /> </p>
-<!-- Social Connect -->
-<h1 align="center">
-  <a href="https://www.facebook.com/abdullaal.nafiu">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:0c4a6e&text=Abdullah%20Al%20Nafiu&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Universal%20Programmer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<br>
+
+### `I don't build around a stack — I build around the problem.`
+
+<br>
+
+<a href="https://v1-aanafiu.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/aanafiu">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:abdullahall.nafiu@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://github.com/aanafiu">
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</h1>
+<a href="https://codeforces.com/profile/wru_look.in">
+  <img src="https://img.shields.io/badge/Codeforces-0f172a?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 
+<br><br>
 
-- 🔭 I’m currently working on [Final Year Projecct]
+<img src="https://komarev.com/ghpvc/?username=aanafiu&label=PROFILE%20VIEWS&color=0f172a&style=flat-square"/>
 
-- 🌱 I’m currently learning **Web Scraping**
+<br><br>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/aanafiu/](https://www.linkedin.com/in/aanafiu/)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=I+turn+problems+into+working+systems.;I+build+with+Python%2C+C%2B%2B+and+JavaScript.;I+learn+by+building%2C+breaking+and+rebuilding.;Always+curious.+Always+building."/>
 
-- 👨‍💻 How to reach me **abdullahall.nafiu@gmail.com**
-
-<p align="center">
-  <table>
-    <tr>
-      <!-- Left Column: Pie Chart -->
-      <td rowspan="2" align="center" valign="middle" width="45%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanafiu&layout=pie&theme=dark" alt="Most Used Languages" width="100%" />
-      </td>
-      <!-- Right Column, Top: Streak Stats -->
-      <td align="center" valign="middle" width="55%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanafiu&theme=nightowl&border=true&border_radius=7&date_format=M%20j%5B%2C%20Y%5D&card_width=500&card_height=200" alt="GitHub Streak" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <!-- Right Column, Bottom: General Stats -->
-      <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=aanafiu&show_icons=true&theme=gotham" alt="GitHub Stats" width="100%" />
-      </td>
-    </tr>
-  </table>
-</p>
-
-<div>
-  <h1>🛠️ Skills & Technologies</h1>
-
-### 🎨 Frontend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3"/>
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jQuery" title="jQuery"/>
-</p>
-
-### ⚙️ Backend
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>
-  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" title="Express.js"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask" title="Flask"/>
-</p>
-
-### 🗄️ Database & Cloud
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL"/>
-  <img width="10"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase" title="Firebase"/>
-</p>
-
-### 🧰 Tools & Others
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" title="C++"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" title="npm"/>
-</p>
 </div>
-<hr>
 
-<h3 align="left">Contact On WhatsApp:</h3>
-<h1>
-  <a href="https://api.whatsapp.com/send/?phone=8801636748351">
-    <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="50" width="50" alt="WhatsApp" />
-    <strong>Chat on WhatsApp</strong>
-  </a>
-</h1>
+---
+
+## 🧠 About Me
+
+I'm **Abdullah Al Nafiu**, a CSE undergraduate and **Universal Programmer** who enjoys moving between algorithms, backend systems, web applications and AI-powered ideas.
+
+I like understanding how things work, solving problems from first principles, and then turning those solutions into practical software.
+
+My interests move across:
+
+- 🐍 Python & backend engineering
+- ⚡ FastAPI / Flask
+- ⚛️ React & modern frontend development
+- 🧠 AI / LLM-powered applications
+- 🕷️ Web scraping & automation
+- 🗄️ Database-driven systems
+- 💻 Competitive programming
+- 🐧 Linux & development environments
+
+I enjoy taking an idea from:
+
+**Problem → Research → Architecture → Implementation → Debugging → Deployment → Improvement**
+
+---
+
+## ⚙️ My Workflow
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=600&color=8B949E&center=true&vCenter=true&width=700&lines=Understand+%E2%86%92+Explore+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Ship;Then+repeat+the+cycle+with+a+better+version."/>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**01**
+
+🧠
+**Understand**
+
+Break the problem into smaller pieces.
+
+</td>
+<td align="center" width="33%">
+
+**02**
+
+🔎
+**Explore**
+
+Research the idea, tools and constraints.
+
+</td>
+<td align="center" width="33%">
+
+**03**
+
+🛠️
+**Build**
+
+Write code and turn the idea into a system.
+
+</td>
+</tr>
+
+<tr>
+<td colspan="3" align="center">↓</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+
+**04**
+
+🧪
+**Test**
+
+Break it, debug it and improve it.
+
+</td>
+<td align="center" width="33%">
+
+**05**
+
+🚀
+**Ship**
+
+Make it usable, document it and keep learning.
+
+</td>
+<td align="center" width="33%">
+
+🔁
+**Repeat**
+
+Take what you learned into the next iteration.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+`Think → Build → Break → Fix → Ship → Learn → Repeat.`
+
+</div>
+
+---
+
+## 🎯 All-Time Goals
+
+<div align="center">
+
+### Become the kind of programmer who can understand the problem before choosing the technology.
+
+| Goal | Progress |
+|---|---|
+| 🧩 Competitive Programming | 500+ problems solved |
+| 🏆 Contest Experience | ICPC Dhaka Regional 2025 |
+| 💻 Software Development | Build real-world applications |
+| 🤖 AI / LLM Engineering | Integrate useful AI into software |
+| 🌍 Long-Term Goal | Become a stronger all-round programmer |
+
+</div>
+
+I want to keep growing across **algorithms, backend systems, frontend applications, AI, databases, automation and system design** while getting better at turning complicated ideas into simple, usable software.
+
+---
+
+## 🧰 Tech Stack
+
+**Core Languages**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js"/>
+</div>
+
+**Frontend**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
+</div>
+
+**Backend**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express"/>
+</div>
+
+**Databases**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb"/>
+</div>
+
+**Tools**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,postman"/>
+</div>
+
+**AI & Automation**
+
+<div align="center">
+
+OpenAI API · LLMs · Web Scraping · BeautifulSoup · Selenium · Scrapy
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌍 Study Abroad AI
+
+**AI-powered scholarship discovery & eligibility matching platform**
+
+The system collects scholarship and intake information, extracts structured requirements, stores them in MySQL, and compares them against a student's profile.
+
+```text
+Scholarship Sources
+        ↓
+   Web Crawling
+        ↓
+ AI Information Extraction
+        ↓
+Structured Requirements
+        ↓
+   Student Profile
+        ↓
+Eligibility Analysis
+        ↓
+Compatibility Score + Missing Requirements
+```
+
+**Core idea:** Don't just say whether a student is eligible — explain *why*, show the missing requirements, calculate an eligibility score, and suggest what can be improved.
+
+**Focus:** `Python` · `FastAPI` · `MySQL` · `AI/LLMs` · `Web Scraping` · `Explainable Matching`
+
+---
+
+### 🏢 Smart Office Device Management System
+
+Built for an **IUT Hackathon** as a smart office management platform.
+
+The system models office devices such as lights, AC units and doors, tracks device states, and provides a dashboard for monitoring and control.
+
+**Stack:** `FastAPI` · `PostgreSQL` · `Docker Compose` · `Traefik` · `WebSockets` · `React`
+
+**Highlights:**
+- Device simulation
+- Real-time device state management
+- Dashboard communication
+- API-driven architecture
+- Containerized development environment
+
+---
+
+### ✅ TinyTask
+
+A programming-club micro-task platform where users can solve tasks, earn credits and participate in a ranking system.
+
+**Features:**
+- Task management
+- Problem-solving points
+- Ranking system
+- Credit packages
+- SSLCommerz payment integration
+
+🔗 **Live:** [tinytask-mern.web.app](https://tinytask-mern.web.app/)
+
+---
+
+### 🏥 MediCamp
+
+A medical-camp management application designed around authentication, roles and camp-related workflows.
+
+**Features:**
+- Firebase Google authentication
+- JWT-based authorization
+- Role management
+- Stripe payment integration
+- ShadCN UI
+
+🔗 **Live:** [mongo-medicamp.web.app](https://mongo-medicamp.web.app/)
+
+---
+
+### 🤖 AI English Expert
+
+A Discord-based learning assistant built with Python and OpenAI APIs, focused on helping users improve English writing and grammar through interactive AI responses.
+
+**Stack:** `Python` · `OpenAI API` · `Discord Bot`
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=aanafiu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" height="175"/>
+
+<img src="https://streak-stats.demolab.com?user=aanafiu&hide_border=true&background=00000000&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" height="175"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aanafiu&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e" height="170"/>
+
+</div>
 
 
-<!-- Git Hub Achivements -->
-<h1>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aanafiu&theme=kimbie_dark" alt="aanafiu" /></a> </p>
-</h1>
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy-tawny.vercel.app/?username=aanafiu&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" width="90%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aanafiu/aanafiu/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://fabianocouto-activity-graph.vercel.app/graph?username=aanafiu&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🧠 Competitive Programming
+
+I have solved 500+ programming problems across competitive programming platforms and continue to practice algorithms and data structures.
+
+**Current Focus**
+
+```text
+C++                 ████████████████████  Algorithms
+Problem Solving     ███████████████████░  Competitive Programming
+Data Structures     ██████████████████░░  Core CS
+Web Development     █████████████████░░░  Practical Systems
+AI / LLM            ████████████████░░░░  Applied AI
+```
+
+🔗 **Codeforces:** [codeforces.com/profile/wru_look.in](https://codeforces.com/profile/wru_look.in)
+
+---
+
+## 🏅 Highlights
+
+<div align="center">
+
+| Achievement | Details |
+|---|---|
+| 🥈 Hackathon | 2nd Place — CSE Fest 2024 Hackathon |
+| 🧩 Competitive Programming | 500+ problems solved |
+| 🌐 ICPC | Dhaka Regional Onsite Contest 2025 |
+| 🎓 Education | B.Sc. in Computer Science & Engineering |
+| 🏫 Community | Vice President — Tejgaon College Programming Club |
+
+</div>
+
+---
+
+## 🧭 Current Direction
+
+<div align="center">
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│                                                              │
+│   BUILD SOFTWARE                                            │
+│        ↓                                                    │
+│   SOLVE HARDER PROBLEMS                                     │
+│        ↓                                                    │
+│   UNDERSTAND SYSTEMS                                        │
+│        ↓                                                    │
+│   EXPLORE AI + LLMs                                         │
+│        ↓                                                    │
+│   BUILD SOMETHING USEFUL                                    │
+│        ↓                                                    │
+│   REPEAT                                                     │
+│                                                              │
+└────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:abdullahall.nafiu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-abdullahall.nafiu%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://wa.me/8801636748351">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-0f172a?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
+</a>
+
+<br><br>
+
+<a href="https://v1-aanafiu.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aanafiu">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0c4a6e,50:111827,100:0f172a" width="100%"/>
+
+**Understand → Build → Break → Improve → Ship**
+
+<sub>Thanks for visiting my profile.</sub>
+
+</div>
