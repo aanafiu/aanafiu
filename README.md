@@ -312,13 +312,8 @@ A Discord-based learning assistant built with Python and OpenAI APIs, focused on
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
+<div align="center"> <img src="https://github-trophies.vercel.app/?username=aanafiu" width="75%"/> </div>
 
-<img src="https://github-profile-trophy-tawny.vercel.app/?username=aanafiu&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" width="90%"/>
-
-</div>
-
----
 
 ## 🐍 Contribution Journey
 
